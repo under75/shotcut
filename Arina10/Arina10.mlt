@@ -19,9 +19,145 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
   </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_150128.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T04:56:59</property>
+    <property name="shotcut:caption">20230506_150128.jpg</property>
+    <property name="shotcut:hash">bf28c230984a1f9da21aa21942c326dd</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:03.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_150211.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T04:57:06</property>
+    <property name="shotcut:caption">20230506_150211.jpg</property>
+    <property name="shotcut:hash">8a7e2a9cef000b7a5a3c4e3e0da665e0</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_151507.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_151507.jpg</property>
+    <property name="shotcut:hash">4cd315bf0404de29082c5a7cf5c87cb7</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_151647.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_151647.jpg</property>
+    <property name="shotcut:hash">402b306f9b66a6969f0f21a4f134d220</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_164824.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_164824.jpg</property>
+    <property name="shotcut:hash">bfcd9ec61a79eb2c9294b61ef3748714</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144325.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144325.jpg</property>
+    <property name="shotcut:hash">6b378c601e26852b81627512352cf611</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144327.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144327.jpg</property>
+    <property name="shotcut:hash">15232bbc8e6017f23f35e243b896ab74</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144355.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144355.jpg</property>
+    <property name="shotcut:hash">9fb2b048378d2ed52c6a2f179073dd95</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
   <playlist id="main_bin">
     <property name="xml_retain">1</property>
     <entry producer="producer0" in="00:00:00.000" out="00:05:41.217"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.983"/>
   </playlist>
   <producer id="black" in="00:00:00.000" out="00:05:41.217">
     <property name="length">00:05:41.233</property>
@@ -35,7 +171,7 @@
   <playlist id="background">
     <entry producer="black" in="00:00:00.000" out="00:05:41.217"/>
   </playlist>
-  <producer id="producer1" in="00:00:00.000" out="00:05:41.217">
+  <producer id="producer9" in="00:00:00.000" out="00:05:41.217">
     <property name="length">00:05:41.233</property>
     <property name="eof">pause</property>
     <property name="resource">/home/apylaev/git/shotcut/gary-moore-in-my-dreams.mp3</property>
@@ -56,20 +192,316 @@
   <playlist id="playlist0">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A1</property>
-    <entry producer="producer1" in="00:00:00.000" out="00:05:41.217"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:05:41.217"/>
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 20.10.01" global_feed="1" in="00:00:00.000" out="00:05:41.217">
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_150128.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T04:56:59</property>
+    <property name="shotcut:caption">20230506_150128.jpg</property>
+    <property name="shotcut:hash">bf28c230984a1f9da21aa21942c326dd</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_150211.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T04:57:06</property>
+    <property name="shotcut:caption">20230506_150211.jpg</property>
+    <property name="shotcut:hash">8a7e2a9cef000b7a5a3c4e3e0da665e0</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.250">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer10" in="00:00:02.250" out="00:00:02.500"/>
+    <track producer="producer11" in="00:00:00.000" out="00:00:00.250"/>
+    <transition id="transition0" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_151507.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_151507.jpg</property>
+    <property name="shotcut:hash">4cd315bf0404de29082c5a7cf5c87cb7</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor1" global_feed="1" in="00:00:00.000" out="00:00:00.333">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer11" in="00:00:02.633" out="00:00:02.967"/>
+    <track producer="producer12" in="00:00:00.000" out="00:00:00.333"/>
+    <transition id="transition2" out="00:00:00.333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.333">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_151647.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_151647.jpg</property>
+    <property name="shotcut:hash">402b306f9b66a6969f0f21a4f134d220</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor2" global_feed="1" in="00:00:00.000" out="00:00:00.400">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer12" in="00:00:02.067" out="00:00:02.467"/>
+    <track producer="producer13" in="00:00:00.000" out="00:00:00.400"/>
+    <transition id="transition4" out="00:00:00.400">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.400">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230506_164824.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230506_164824.jpg</property>
+    <property name="shotcut:hash">bfcd9ec61a79eb2c9294b61ef3748714</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor3" global_feed="1" in="00:00:00.000" out="00:00:00.250">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer13" in="00:00:02.333" out="00:00:02.583"/>
+    <track producer="producer14" in="00:00:00.000" out="00:00:00.250"/>
+    <transition id="transition6" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition7" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144325.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144325.jpg</property>
+    <property name="shotcut:hash">6b378c601e26852b81627512352cf611</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor4" global_feed="1" in="00:00:00.000" out="00:00:00.283">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer14" in="00:00:02.267" out="00:00:02.550"/>
+    <track producer="producer15" in="00:00:00.000" out="00:00:00.283"/>
+    <transition id="transition8" out="00:00:00.283">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition9" out="00:00:00.283">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144327.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144327.jpg</property>
+    <property name="shotcut:hash">15232bbc8e6017f23f35e243b896ab74</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor5" global_feed="1" in="00:00:00.000" out="00:00:00.250">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer15" in="00:00:02.250" out="00:00:02.500"/>
+    <track producer="producer16" in="00:00:00.000" out="00:00:00.250"/>
+    <transition id="transition10" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition11" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/apylaev/git/shotcut/20230507_144355.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-12-12T03:55:44</property>
+    <property name="shotcut:caption">20230507_144355.jpg</property>
+    <property name="shotcut:hash">9fb2b048378d2ed52c6a2f179073dd95</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <tractor id="tractor6" global_feed="1" in="00:00:00.000" out="00:00:00.250">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer16" in="00:00:02.267" out="00:00:02.517"/>
+    <track producer="producer17" in="00:00:00.000" out="00:00:00.250"/>
+    <transition id="transition12" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition13" out="00:00:00.250">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <blank length="00:00:03.883"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:02.233"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.250"/>
+    <entry producer="producer11" in="00:00:00.267" out="00:00:02.267"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.333"/>
+    <entry producer="producer12" in="00:00:00.350" out="00:00:02.050"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.400"/>
+    <entry producer="producer13" in="00:00:00.417" out="00:00:02.317"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:00.250"/>
+    <entry producer="producer14" in="00:00:00.267" out="00:00:02.250"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:00.283"/>
+    <entry producer="producer15" in="00:00:00.300" out="00:00:02.233"/>
+    <entry producer="tractor5" in="00:00:00.000" out="00:00:00.250"/>
+    <entry producer="producer16" in="00:00:00.267" out="00:00:02.250"/>
+    <entry producer="tractor6" in="00:00:00.000" out="00:00:00.250"/>
+    <entry producer="producer17" in="00:00:00.267" out="00:00:03.983"/>
+  </playlist>
+  <tractor id="tractor7" title="Shotcut version 20.10.01" global_feed="1" in="00:00:00.000" out="00:05:41.217">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">1</property>
     <track producer="background"/>
     <track producer="playlist0" hide="video"/>
-    <transition id="transition0">
+    <track producer="playlist1"/>
+    <transition id="transition14">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
+    </transition>
+    <transition id="transition15">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition16">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
     </transition>
   </tractor>
 </mlt>
